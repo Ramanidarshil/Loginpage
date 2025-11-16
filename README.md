@@ -49,56 +49,11 @@ A clean and modern **Login & Signup system** built using **HTML, CSS, and JavaSc
 
 ---
 
-## ⚙️ Setup Instructions
 
-### 1. Create Google Sheet
-
-* Make a new sheet
-* Add columns: Name, Email, Password, Timestamp
-
-### 2. Add Apps Script Code
-
-* In Google Sheet → Extensions → Apps Script
-* Paste your script
-* Deploy → Web App → "Anyone" access
-* Copy the Web App URL
-
-### 3. Add API URL in script.js
-
-```
-const apiURL = "YOUR_WEB_APP_URL";
-```
-
-### 4. Upload Project to GitHub
-
-* Create a new repository
-* Upload all files
-* Commit changes
-
-### 5. Host on GitHub Pages
-
-* Go to Settings → Pages
-* Source: main branch
-* Folder: /root
-* Save and wait 1 minute
-* Your website will go live
-
----
 
 ## 🧪 Live Demo
 
-Add your GitHub Pages link here.
 
----
-
-## 🚧 Future Improvements
-
-* Password Encryption
-* Session Handling
-* Forgot Password System
-* Admin Dashboard using Sheets
-
----
 
 ## 👤 Author
 
